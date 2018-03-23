@@ -1,5 +1,5 @@
-hahahahahahaha
-hehhheehehehehe
-yayayayayaaya
-hahahhahah
+
+def show_page():
+
+    print('lalllaa')
 
